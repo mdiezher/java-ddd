@@ -10,3 +10,11 @@ gradle-app.setting
 
 .env.local
 .env.*.local
+
+# Ignore java
+.class
+bin/
+.classpath
+.project
+.settings/
+
